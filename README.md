@@ -13,6 +13,14 @@ I'm a passionate Data Scientist & Machine Learning Engineer with hands-on experi
 
 ---
 
+## 🧰 Skills
+
+- **Languages**: Python, SQL
+- **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn, OpenCV
+- **Tools**: Power BI, Tableau, Jupyter, Git, Excel, Google Colab
+- **Database/Cloud**: MySQL, MongoDB, PostgreSQL, Google Cloud Platform (GCP)
+
+
 ## 🚀 Projects
 
 ### 💡 [Human Face Sketch to Real Image](#)
@@ -29,28 +37,6 @@ I'm a passionate Data Scientist & Machine Learning Engineer with hands-on experi
 *Power BI | Data Visualization*  
 - Interactive dashboard with KPIs, custom measures using DAX, and real-time insights.
 - Visualized sales data for trends, revenue analysis, and product segmentation.
-
----
-
-## 🧰 Skills
-
-### 👨‍💻 Technical
-- **Languages**: Python, SQL
-- **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn, OpenCV
-- **Tools**: Power BI, Tableau, Jupyter, Git, Excel, Google Colab
-- **Database/Cloud**: MySQL, MongoDB, PostgreSQL, Google Cloud Platform (GCP)
-
-### 💼 Soft Skills
-Analytical Thinking • Problem Solving • Communication • Teamwork • Time Management
-
----
-
-## 📜 Certifications
-- SQL Advanced – HackerRank  
-- Power BI & Data Visualization – Microsoft
-- Data Aanlysis - IBM  
-- Gemini for Data Scientists & Analysts - Google Cloud Platform    
-
   
 ---
 
