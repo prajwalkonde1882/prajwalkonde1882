@@ -16,8 +16,8 @@ I'm a passionate Data Scientist & Machine Learning Engineer with hands-on experi
 ## 🧰 Skills
 
 - **Languages**: Python, SQL
-- **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn, OpenCV
-- **Tools**: Power BI, Tableau, Jupyter, Git, Excel, Google Colab
+- **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Plotly, TensorFlow, Keras, Scikit-learn, OpenCV
+- **Tools**: VS Code, Power BI, Tableau, , Microsoft Jupyter, Git, Excel, Google Colab
 - **Database/Cloud**: MySQL, MongoDB, PostgreSQL, Google Cloud Platform (GCP)
 
 
